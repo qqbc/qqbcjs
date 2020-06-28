@@ -21,11 +21,11 @@
     "docs-serve": "python -m SimpleHTTPServer",
     "docs-publish": "sh .docs/scripts/publish.sh"
   },
-  "author": "block.one",
+  "author": "duanfp",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QQBCIO/qqbcjs.git"
+    "url": "https://github.com/qqbc/qqbcjs.git"
   },
   "dependencies": {
     "babel-runtime": "6.26.0",
