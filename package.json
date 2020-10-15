@@ -1,6 +1,6 @@
 {
   "name": "qqbcjs",
-  "version": "20.0.3",
+  "version": "20.0.5",
   "description": "Talk to qqbc API",
   "main": "dist/index.js",
   "scripts": {
@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "babel-runtime": "6.26.0",
+    "qqbcjs-ecc": "4.0.9",
     "text-encoding": "0.7.0"
   },
   "devDependencies": {
